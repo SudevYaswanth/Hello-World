@@ -1,0 +1,19 @@
+https://github.com/SudevYaswanth/Hello-World.git
+
+1) To initialize the empty GIT repo
+cmd> git init
+
+2) To add a reference remote GIT URL
+cmd > git remote add origin https://github.testrepo.git
+
+3) To stage the modified files
+cmd> git add .
+
+4) To commit
+cmd > git commit -m "commit msg"
+
+5) To fetch the code from remote git repo
+cmd > git pull origin master
+
+6) To push the code to remote master
+Cmd> git push origin master
