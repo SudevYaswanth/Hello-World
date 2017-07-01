@@ -1,7 +1,8 @@
+"This is the modified file"
 https://github.com/SudevYaswanth/Hello-World.git
 
 1) To initialize the empty GIT repo
-cmd> git init
+cmd: git init
 
 2) To add a reference remote GIT URL
 cmd > git remote add origin https://github.testrepo.git
