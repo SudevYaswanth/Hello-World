@@ -1,7 +1,4 @@
 
-"This is third time"
-"This is second time modified."
-"This is the modified file"
 https://github.com/SudevYaswanth/Hello-World.git
 
 1) To initialize the empty GIT repo
